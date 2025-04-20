@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title":"NIKKOR Z 24-200MM Camera",
+        "description":"The Z6III introduces an unparalleled full-frame experience, featuring exceptional video capabilities, outstanding EVF brightness and colour accuracy, with extensive new technologies: be ready to outperform",
+        "currentBidPrice":230,
+        "timeLeft":"12 Hours",
+        "bidsCount":28,
+        "image":"https://i.ibb.co.com/TxBks0gQ/Bid1-min.png"
+    },
+    {
+        "id":2,
+        "title":"Sqoe LP500- High End Les Paul Electric Guitar",
+        "description":"Rosewood 22 frets inlaid trapezoidal white shells, High-grade Sqoe plated silver fully enclosed",
+        "currentBidPrice":103,
+        "timeLeft":"5 Days",
+        "bidsCount":54,
+        "image":"https://i.ibb.co.com/rG1xcbR0/Bid2-min.png"
+    },
+    {
+        "id":3,
+        "title":"Apple MacBook Air ",
+        "description":"MPN: MC7W4, Model: MacBook Air (2022), Processor: Apple M2 chip, 8-core CPU with 4P cores and 4E cores",
+        "currentBidPrice":1365,
+        "timeLeft":"1 Days",
+        "bidsCount":41,
+        "image":"https://i.ibb.co.com/ksPSN53R/Bid3-min.png"
+    },
+    {
+        "id":4,
+        "title":"Rolex The Land‑Dweller",
+        "description":"The most significant innovation, calibre 7135’s Dynapulse escapement is a revolutionary alternative to the traditional Swiss lever escapement",
+        "currentBidPrice":2699,
+        "timeLeft":"6 Days",
+        "bidsCount":365,
+        "image":"https://i.ibb.co.com/7dSqYTt3/Bid4-min.png"
+    },
+    {
+        "id":5,
+        "title":"Practical Guide To Business Models",
+        "description":"The need for this book is driven by the rapid pace of change and innovation in the business world.",
+        "currentBidPrice":51,
+        "timeLeft":"8 Days",
+        "bidsCount":11,
+        "image":"https://i.ibb.co.com/hRzW8K3q/Bid5-min.png"
+    },
+    {
+        "id":6,
+        "title":"Outdoor Durable Wooden Chair",
+        "description":"Mild Wooden Part Protected with Powder Coating Heat Paint",
+        "currentBidPrice":29,
+        "timeLeft":"4 Hours",
+        "bidsCount":4,
+        "image":"https://i.ibb.co.com/HDC55q9L/Bid6-min.png"
+    }
+]
